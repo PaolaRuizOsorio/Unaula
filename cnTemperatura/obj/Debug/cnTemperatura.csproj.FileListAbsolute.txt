@@ -1,0 +1,8 @@
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnTemperatura\bin\Debug\cnTemperatura.exe.config
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnTemperatura\bin\Debug\cnTemperatura.exe
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnTemperatura\bin\Debug\cnTemperatura.pdb
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnTemperatura\obj\Debug\cnTemperatura.csproj.AssemblyReference.cache
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnTemperatura\obj\Debug\cnTemperatura.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnTemperatura\obj\Debug\cnTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnTemperatura\obj\Debug\cnTemperatura.exe
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnTemperatura\obj\Debug\cnTemperatura.pdb
