@@ -1,0 +1,8 @@
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnCuadrado\bin\Debug\cnCuadrado.exe.config
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnCuadrado\bin\Debug\cnCuadrado.exe
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnCuadrado\bin\Debug\cnCuadrado.pdb
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnCuadrado\obj\Debug\cnCuadrado.csproj.AssemblyReference.cache
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnCuadrado\obj\Debug\cnCuadrado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnCuadrado\obj\Debug\cnCuadrado.csproj.CoreCompileInputs.cache
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnCuadrado\obj\Debug\cnCuadrado.exe
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnCuadrado\obj\Debug\cnCuadrado.pdb
