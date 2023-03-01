@@ -1,0 +1,8 @@
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnEdad\bin\Debug\cnEdad.exe.config
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnEdad\bin\Debug\cnEdad.exe
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnEdad\bin\Debug\cnEdad.pdb
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnEdad\obj\Debug\cnEdad.csproj.AssemblyReference.cache
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnEdad\obj\Debug\cnEdad.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnEdad\obj\Debug\cnEdad.csproj.CoreCompileInputs.cache
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnEdad\obj\Debug\cnEdad.exe
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnEdad\obj\Debug\cnEdad.pdb

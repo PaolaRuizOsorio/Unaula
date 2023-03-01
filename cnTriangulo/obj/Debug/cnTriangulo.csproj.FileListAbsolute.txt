@@ -1,0 +1,8 @@
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnTriangulo\bin\Debug\cnTriangulo.exe.config
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnTriangulo\bin\Debug\cnTriangulo.exe
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnTriangulo\bin\Debug\cnTriangulo.pdb
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnTriangulo\obj\Debug\cnTriangulo.csproj.AssemblyReference.cache
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnTriangulo\obj\Debug\cnTriangulo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnTriangulo\obj\Debug\cnTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnTriangulo\obj\Debug\cnTriangulo.exe
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnTriangulo\obj\Debug\cnTriangulo.pdb

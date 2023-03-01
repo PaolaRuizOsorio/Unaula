@@ -1,0 +1,8 @@
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnCuadrantes\bin\Debug\cnCuadrantes.exe.config
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnCuadrantes\bin\Debug\cnCuadrantes.exe
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnCuadrantes\bin\Debug\cnCuadrantes.pdb
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnCuadrantes\obj\Debug\cnCuadrantes.csproj.AssemblyReference.cache
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnCuadrantes\obj\Debug\cnCuadrantes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnCuadrantes\obj\Debug\cnCuadrantes.csproj.CoreCompileInputs.cache
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnCuadrantes\obj\Debug\cnCuadrantes.exe
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnCuadrantes\obj\Debug\cnCuadrantes.pdb

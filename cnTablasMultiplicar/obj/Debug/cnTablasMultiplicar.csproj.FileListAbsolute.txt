@@ -1,0 +1,8 @@
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnTablasMultiplicar\bin\Debug\cnTablasMultiplicar.exe.config
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnTablasMultiplicar\bin\Debug\cnTablasMultiplicar.exe
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnTablasMultiplicar\bin\Debug\cnTablasMultiplicar.pdb
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnTablasMultiplicar\obj\Debug\cnTablasMultiplicar.csproj.AssemblyReference.cache
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnTablasMultiplicar\obj\Debug\cnTablasMultiplicar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnTablasMultiplicar\obj\Debug\cnTablasMultiplicar.csproj.CoreCompileInputs.cache
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnTablasMultiplicar\obj\Debug\cnTablasMultiplicar.exe
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnTablasMultiplicar\obj\Debug\cnTablasMultiplicar.pdb

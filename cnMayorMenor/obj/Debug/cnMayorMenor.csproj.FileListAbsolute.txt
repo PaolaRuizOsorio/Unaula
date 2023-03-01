@@ -1,0 +1,8 @@
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnMayorMenor\bin\Debug\cnMayorMenor.exe.config
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnMayorMenor\bin\Debug\cnMayorMenor.exe
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnMayorMenor\bin\Debug\cnMayorMenor.pdb
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnMayorMenor\obj\Debug\cnMayorMenor.csproj.AssemblyReference.cache
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnMayorMenor\obj\Debug\cnMayorMenor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnMayorMenor\obj\Debug\cnMayorMenor.csproj.CoreCompileInputs.cache
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnMayorMenor\obj\Debug\cnMayorMenor.exe
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnMayorMenor\obj\Debug\cnMayorMenor.pdb

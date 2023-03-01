@@ -1,0 +1,8 @@
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnEmpleado2\bin\Debug\cnEmpleado2.exe.config
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnEmpleado2\bin\Debug\cnEmpleado2.exe
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnEmpleado2\bin\Debug\cnEmpleado2.pdb
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnEmpleado2\obj\Debug\cnEmpleado2.csproj.AssemblyReference.cache
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnEmpleado2\obj\Debug\cnEmpleado2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnEmpleado2\obj\Debug\cnEmpleado2.csproj.CoreCompileInputs.cache
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnEmpleado2\obj\Debug\cnEmpleado2.exe
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\cnEmpleado2\obj\Debug\cnEmpleado2.pdb
