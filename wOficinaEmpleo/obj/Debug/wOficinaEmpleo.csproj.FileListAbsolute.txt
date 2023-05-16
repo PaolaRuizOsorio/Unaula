@@ -1,0 +1,13 @@
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\wOficinaEmpleo\bin\Debug\wOficinaEmpleo.exe.config
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\wOficinaEmpleo\bin\Debug\wOficinaEmpleo.exe
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\wOficinaEmpleo\bin\Debug\wOficinaEmpleo.pdb
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\wOficinaEmpleo\obj\Debug\wOficinaEmpleo.csproj.AssemblyReference.cache
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\wOficinaEmpleo\obj\Debug\wOficinaEmpleo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\wOficinaEmpleo\obj\Debug\wOficinaEmpleo.frmOficinaEmpleo.resources
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\wOficinaEmpleo\obj\Debug\wOficinaEmpleo.frmEmpleado.resources
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\wOficinaEmpleo\obj\Debug\wOficinaEmpleo.Properties.Resources.resources
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\wOficinaEmpleo\obj\Debug\wOficinaEmpleo.csproj.GenerateResource.cache
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\wOficinaEmpleo\obj\Debug\wOficinaEmpleo.csproj.CoreCompileInputs.cache
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\wOficinaEmpleo\obj\Debug\wOficinaEmpleo.exe
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\wOficinaEmpleo\obj\Debug\wOficinaEmpleo.pdb
+C:\Users\Pao\Desktop\LenguajeDeProgramacion\wOficinaEmpleo\obj\Debug\wOficinaEmpleo.frmBuscarEmpleo.resources
